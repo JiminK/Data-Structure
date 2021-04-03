@@ -32,8 +32,16 @@ push 명령 입력하면 원소가 push 되는데, 그 명령을 보여주고 �
 이를 위해 추가로 아래 4개의 함수를 구현하는 과제    
 
 * **boolean IsEmpty() {}**    
-* **void Push (T x) throws Exception {}** 
+원소의 수가 0이면 true, 아니면 false 리턴.
+* **void Push (T x) throws Exception {}**    
+Queue의 rear에 원소 추가 .
 * **T Pop() throws Exception {}**    
+Queue의 front에서 원소를 제거하고 제거된 원소 return.
 * **public String toString() {}**    
+Queue의 내용을 front부터 rear까지 차례대로 표시.    
+front 변수와 rear 변수 값 출력.    
+실제로는 출력된 내용을 String에 담아서 이를 리턴함.    
+*ex. Queue : 1 2    
+ rear=2, front=0*
 
 ## hw
