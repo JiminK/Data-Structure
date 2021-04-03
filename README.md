@@ -1,6 +1,22 @@
 # Data-Structure
 KMU 2-1
 
+## 프로그램 테스트
+
+**컴파일**    
+$ javac lab.java LabTest.java    
+
+**실행**    
+$ java LabTest    
+
+**주어진 input으로 실행**    
+$ java LabTest < lab.in    
+
+**주어진 output과 비교**    
+$ java LabTest < lab.in > abc    
+$ diff abc lab.out 또는 $ diff -i --strip-trailing-cr -w abc lab.out    
+ 
+ 
 ## lab
 
  **1. lab 01**    
