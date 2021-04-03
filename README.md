@@ -32,6 +32,8 @@ push 명령 입력하면 원소가 push 되는데, 그 명령을 보여주고 �
 이를 위해 추가로 아래 4개의 함수를 구현하는 과제    
 
 * **boolean IsEmpty() {}**    
-* 
+* **void Push (T x) throws Exception {}** 
+* **T Pop() throws Exception {}**    
+* **public String toString() {}**    
 
 ## hw
