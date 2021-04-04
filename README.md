@@ -60,4 +60,16 @@ front 변수와 rear 변수 값 출력.
 *ex. Queue : 1 2    
  rear=2, front=0*
 
-## hw
+**5. lab 05**    
+
+
+## hw    
+
+ **1. hw 01**    
+미로 찾기 알고리즘을 구현    
+
+사용자로부터 미로의 크기 입력 받음. 이를 위해 "maze"라는 명령어 입력.    
+.    
+.    
+
+* **public void Path(int m, int p)**    
