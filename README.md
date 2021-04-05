@@ -61,7 +61,8 @@ front 변수와 rear 변수 값 출력.
  rear=2, front=0*
 
 **5. lab 05**    
-
+Circular List를 이용하여 SortedList 클래스 구현    
+SortedList는 Circular List의 일종이고 데이터는 **오름차순**으로 정렬되어 있음
 
 ## hw    
 
