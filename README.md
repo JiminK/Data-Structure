@@ -73,7 +73,7 @@ SortedList는 Circular List의 일종이고 데이터는 **오름차순**으로 
 이를 위해 추가로 아래 3개의 함수를 구현    
 * **void Insert(T e);**    
 * **void Clear();**
-* **SortedListNode<T> GetNode();**    
+* **SortedListNode< T > GetNode();**    
 
 
 ## hw    
