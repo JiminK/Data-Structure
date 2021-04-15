@@ -38,19 +38,19 @@ Polynomial ADD 참조.
 int Compare(MatrixTerm a, Matrixterm b) 를 활용하여 **두 개의 원소 중 누가 앞에 나와야 하는지 알아내면** 쉽게 구현 가능.    
 
 **4. lab 04**    
-원형큐(Circular Queue) 구현    
+원형큐(Circular Queue) 구현하는 과제    
 
 push 명령 입력하면 원소가 push 되는데, 그 명령을 보여주고 현재 queue 상태를 보여준 뒤,    
 마지막으로 **rear**와 **front** 변수의 값을 보여준다.    
 그리고 다음 명령을 입력 받을 준비를 한다.    
 명령어로 quit를 치면 프로그램에서 빠져나온다.    
 
-이를 위해 추가로 아래 4개의 함수를 구현하는 과제    
+이를 위해 추가로 아래 4개의 함수를 구현    
 
 * **boolean IsEmpty() {}**    
 원소의 수가 0이면 true, 아니면 false 리턴.
 * **void Push (T x) throws Exception {}**    
-Queue의 rear에 원소 추가 .
+Queue의 rear에 원소 추가.
 * **T Pop() throws Exception {}**    
 Queue의 front에서 원소를 제거하고 제거된 원소 return.
 * **public String toString() {}**    
@@ -61,8 +61,18 @@ front 변수와 rear 변수 값 출력.
  rear=2, front=0*
 
 **5. lab 05**    
-Circular List를 이용하여 SortedList 클래스 구현    
-SortedList는 Circular List의 일종이고 데이터는 **오름차순**으로 정렬되어 있음
+Circular List를 이용하여 SortedList 클래스 구현하는 과제    
+SortedList는 Circular List의 일종이고 데이터는 **오름차순**으로 정렬되어 있음    
+
+사용자가 사용하는 명령어의 syntax는 아래와 같다. (LabTest 클래스의 메인함수에 정의됨)    
+* **put integervalue**    
+정수인 integervalue 값을 가지는 노드를 정렬이 되는 위치를 찾아 삽입.
+* **clear**    
+리스트를 모두 av로 리턴.    
+
+이를 위해 추가로 아래 3개의 함수를 구현    
+ 
+
 
 ## hw    
 
