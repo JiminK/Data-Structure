@@ -94,6 +94,11 @@ SortedList는 Circular List의 일종이고 데이터는 **오름차순**으로 
 
 **2. hw 02**    
 Linked List를 이용하여 Sparse Matrix를 구현하는 과제    
+    
+이를 위해 아래 3개의 함수를 완성시킨다.    
 
-
+* **boolean AddOneElement(final int r, final int c, final int v)**        
+* **boolean Delete(final int r, final int c)**    
+* **SparseMatrix Add(SparseMatrix b)**    
+    
 자세한 내용은 hw2.pdf를 참고한다.    
