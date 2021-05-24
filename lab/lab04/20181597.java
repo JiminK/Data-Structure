@@ -1,5 +1,8 @@
 import java.util.*;
 
+// Name : Jimin Kim
+// Student ID : 20181597
+
 /**
  * Generic version of the MyQueue class.
  * @param <T> the type of the value being queued
