@@ -6,6 +6,9 @@ import java.util.*;
  * @author Sanghwan Lee
  */
 
+// Name : Jimin Kim
+// Student ID : 20181597
+
 class LabTest {
 	public static void main(String[] args) {
 		// get the User Input
