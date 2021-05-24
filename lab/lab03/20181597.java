@@ -1,6 +1,9 @@
 import java.util.*;
 import java.lang.*;
 
+// Name : Jimin Kim
+// Student ID : 20181597
+
 class SparseMatrix {
 	MatrixTerm[] smArray;
 	int rows, cols;
