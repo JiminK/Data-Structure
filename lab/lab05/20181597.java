@@ -1,5 +1,8 @@
 import java.util.*;
 
+// Name : Jimin Kim
+// Student ID : 20181597
+
 /**
  * Generic version of the SortedList class.
  */
